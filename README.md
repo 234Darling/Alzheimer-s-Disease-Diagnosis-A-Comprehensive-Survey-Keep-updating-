@@ -50,49 +50,49 @@ The mainstream methods for AD diagnosis primarily involve deep learning and can 
 #### Self-Supervised Learning
 | Title | Authors | Year | Citations | Code | Datasets | Journal/Conference |
 |-------|---------|------|-----------|------|----------|-------------------|
-| Detecting Early Risk of Alzheimer’s Disease Using Self-Supervised Multimodal Representation Learning | Jhon A. Intriago; Pablo A. Estevez; Jose A. Cortes-Briones; Cecilia A. Okuma; Fernando A. Henriquez; Patricia Lillo | 2023 | 2 | - | Private | Conference on Artificial Intelligence |
-| Two-Stage Self-Supervised Cycle-Consistency Transformer Network for Reducing Slice Gap in MR Images | Zhiyang Lu; Jian Wang; Zheng Li; Shihui Ying; Jun Wang; Jun Shi; Dinggang Shen | 2023 | - | - | - | JBHI |
-| Contrastive Learning for Prediction of Alzheimer’s Disease Using Brain 18F-FDG PET | Yonglin Chen; Huabin Wang; Gong Zhang; Xiao Liu; Wei Huang; Xianjun Han; Xuejun Li; Melanie Martin; Liang Tao | 2023 | 10 | - | ADNI | JBHI |
+| Detecting Early Risk of Alzheimer’s Disease Using Self-Supervised Multimodal Representation Learning | Jhon A. Intriago; Pablo A. Estevez; Jose A. Cortes-Briones; Cecilia A. Okuma; Fernando A. Henriquez; Patricia Lillo | 2023 | 2 | https://ieeexplore.ieee.org/document/10195072 | Private | Conference on Artificial Intelligence |
+| Two-Stage Self-Supervised Cycle-Consistency Transformer Network for Reducing Slice Gap in MR Images | Zhiyang Lu; Jian Wang; Zheng Li; Shihui Ying; Jun Wang; Jun Shi; Dinggang Shen | 2023 | - | https://ieeexplore.ieee.org/document/10113164 | - | JBHI |
+| Contrastive Learning for Prediction of Alzheimer’s Disease Using Brain 18F-FDG PET | Yonglin Chen; Huabin Wang; Gong Zhang; Xiao Liu; Wei Huang; Xianjun Han; Xuejun Li; Melanie Martin; Liang Tao | 2023 | 10 | https://ieeexplore.ieee.org/document/9999012 | ADNI | JBHI |
 
 #### Multimodal Learning
 | Title | Authors | Year | Citations | Code | Datasets | Journal/Conference |
 |-------|---------|------|-----------|------|----------|-------------------|
-| Alzheimer’s disease diagnosis from single and multimodal data using machine and deep learning models: Achievements and future directions | Ahmed Elazab; Chang miao Wang; Mohammed Abdelaziz; Jian Zhang; Jason Gu; Juan M. Gorriz; Yudong Zhang; Chunqi Chang | 2024 | 2 | - | - | Expert Systems with Applications |
-| A Multimodal Deep Learning Approach for Automated Detection and Characterization of Distinctly Salient Features of Alzheimer's Disease | Ishaan Batta; Anees Abrol; Vince Calhoun | 2023 | 0 | - | ADNI | ISBI |
+| Alzheimer’s disease diagnosis from single and multimodal data using machine and deep learning models: Achievements and future directions | Ahmed Elazab; Chang miao Wang; Mohammed Abdelaziz; Jian Zhang; Jason Gu; Juan M. Gorriz; Yudong Zhang; Chunqi Chang | 2024 | 2 | https://www.sciencedirect.com/science/article/abs/pii/S0957417424016476 | - | Expert Systems with Applications |
+| A Multimodal Deep Learning Approach for Automated Detection and Characterization of Distinctly Salient Features of Alzheimer's Disease | Ishaan Batta; Anees Abrol; Vince Calhoun | 2023 | 0 | https://ieeexplore.ieee.org/document/10230525 | ADNI | ISBI |
 | Toward Robust Early Detection of Alzheimer's Disease via an Integrated Multimodal Learning Approach | Yifei Chen; Shenghao Zhu; Zhaojie Fang; Chang Liu; Binfeng Zou; Yuhe Wang; Shuo Chang; Fan Jia; Feiwei Qin; Jin Fan; Yong Peng; Changmiao Wang | 2024 | 0 | [Github](https://github.com/justlfc03/mstnet) | Private | arXiv |
-| Enhanced Multimodal Low-Rank Embedding-Based Feature Selection Model for Multimodal Alzheimer’s Disease Diagnosis | Chen, Z., Liu, Y., Zhang, Y., Zhu, J., Li, Q., & Wu, X. | 2025 | 1 | - | ADNI | TMI |
-| Hyperfusion: A hypernetwork approach to multimodal integration of tabular and medical imaging data for predictive modeling | **a, J., Chan, Y. H., Girish, D., & Rajapakse, J. C. | 2025 | 0 | - | ADNI | MIA |
+| Enhanced Multimodal Low-Rank Embedding-Based Feature Selection Model for Multimodal Alzheimer’s Disease Diagnosis | Chen, Z., Liu, Y., Zhang, Y., Zhu, J., Li, Q., & Wu, X. | 2025 | 1 | https://ieeexplore.ieee.org/document/10684737 | ADNI | TMI |
+| Hyperfusion: A hypernetwork approach to multimodal integration of tabular and medical imaging data for predictive modeling | **a, J., Chan, Y. H., Girish, D., & Rajapakse, J. C. | 2025 | 0 | https://www.sciencedirect.com/science/article/abs/pii/S1361841525000519 | ADNI | MIA |
 
 #### Other Methods
 | Title | Authors | Year | Citations | Code | Datasets | Journal/Conference |
 |-------|---------|------|-----------|------|----------|-------------------|
-| Multi-Template Meta-Information Regularized Network for Alzheimer’s Disease Diagnosis Using Structural MRI | Kangfu Han; Gang Li; Zhiwen Fang; Feng Yang | 2023 | 3 | - | ADNI, NACC | TMI |
-| Federated Domain Adaptation via Transformer for Multi-Site Alzheimer’s Disease Diagnosis | Baiying Lei; Yun Zhu; Enmin Liang; Peng Yang; Shaobin Chen; Huoyou Hu; Haoran Xie; Ziyi Wei | 2023 | 13 | - | ADNI | TMI |
+| Multi-Template Meta-Information Regularized Network for Alzheimer’s Disease Diagnosis Using Structural MRI | Kangfu Han; Gang Li; Zhiwen Fang; Feng Yang | 2023 | 3 | https://ieeexplore.ieee.org/document/10365189 | ADNI, NACC | TMI |
+| Federated Domain Adaptation via Transformer for Multi-Site Alzheimer’s Disease Diagnosis | Baiying Lei; Yun Zhu; Enmin Liang; Peng Yang; Shaobin Chen; Huoyou Hu; Haoran Xie; Ziyi Wei | 2023 | 13 | https://ieeexplore.ieee.org/document/10198494 | ADNI | TMI |
 | RClaNet: An Explainable Alzheimer’s Disease Diagnosis Framework by Joint Registration and Classification | Liang Wu; Shunbo Hu; Duanwei Wang; Changchun Liu; Li Wang | 2024 | 3 | [Github](https://github.com/LiangWUSDU/RClaNet) | ADNI,OASIS-3,AIBL,COVID-19 | JBHI |
-| Visual-Attribute Prompt Learning for Progressive Mild Cognitive Impairment Prediction | Luoyao Kang; Haifan Gong; Xiang Wan; Haofeng Li | 2023 | 6 | - | ADNI | MICCAI |
-| Amyloid-β Deposition Prediction With Large Language Model Driven and Task-Oriented Learning of Brain Functional Networks | Liu Y, Liu M, Zhang Y | 2025 | 1 | - | ADNI,Huashan，OASIS | TMI |
-| Longitudinal Alzheimer's Disease Progression Prediction With Modality Uncertainty and Optimization of Information Flow | Dao, D. P., Yang, H. J., Kim, J., & Ho, N. H.|2025|0||ADNI|JBHI|
-| BIGFormer: A Graph Transformer With Local Structure Awareness for Diagnosis and Pathogenesis Identification of Alzheimer's Disease Using Imaging Genetic Data|Zou, Q., Shang, J., Liu, J. X., & Gao, R.|2025|1||ADNI|JBHI|
-|Image-and-Label Conditioning Latent Diffusion Model: Synthesizing Aβ-PET From MRI for Detecting Amyloid Status|Ou, Z., Pan, Y.,**e, F., Guo, Q., & Shen, D. |2025|1||ADNI|JBHI|
+| Visual-Attribute Prompt Learning for Progressive Mild Cognitive Impairment Prediction | Luoyao Kang; Haifan Gong; Xiang Wan; Haofeng Li | 2023 | 6 | https://arxiv.org/abs/2310.14158 | ADNI | MICCAI |
+| Amyloid-β Deposition Prediction With Large Language Model Driven and Task-Oriented Learning of Brain Functional Networks | Liu Y, Liu M, Zhang Y | 2025 | 1 | https://pubmed.ncbi.nlm.nih.gov/40030867/ | ADNI,Huashan，OASIS | TMI |
+| Longitudinal Alzheimer's Disease Progression Prediction With Modality Uncertainty and Optimization of Information Flow | Dao, D. P., Yang, H. J., Kim, J., & Ho, N. H.|2025|0|https://ieeexplore.ieee.org/document/10702601|ADNI|JBHI|
+| BIGFormer: A Graph Transformer With Local Structure Awareness for Diagnosis and Pathogenesis Identification of Alzheimer's Disease Using Imaging Genetic Data|Zou, Q., Shang, J., Liu, J. X., & Gao, R.|2025|1|https://ieeexplore.ieee.org/document/10648828|ADNI|JBHI|
+|Image-and-Label Conditioning Latent Diffusion Model: Synthesizing Aβ-PET From MRI for Detecting Amyloid Status|Ou, Z., Pan, Y.,**e, F., Guo, Q., & Shen, D. |2025|1|https://ieeexplore.ieee.org/document/10752348|ADNI|JBHI|
 
 ### Papers by Author "Y Liu"
 | Title | Authors | Year | Citations | Code | Datasets | Journal/Conference |
 |-------|---------|------|-----------|------|----------|-------------------|
-| 3DNesT: A Hierarchical Local Self-Attention Model for Alzheimer's Disease Diagnosis | X Kang, Y Liu | 2023 | 0 | - | ADNI | ICNC |
-| A systematic analysis of diagnostic performance for Alzheimer’s disease using structural MRI | J Wu, K Zhao, Z Li, D Wang, Y Ding, Y Wei, H Zhang, Y Liu | 2022 | 6 | - | - | Psychoradiology |
-| Structure–function coupling reveals the brain hierarchical structure dysfunction in Alzheimer’s disease: A multicenter study | Y Sun, P Wang, K Zhao, P Chen, Y Qu, Z Li, S Zhong, B Zhou, J Lu, X Zhang, D Wang, Y Liu | 2024 | 0 | - | Private | Alzheimer's & Dementia |
-| Convergent Neuroimaging and Molecular Signatures in Mild Cognitive Impairment and Alzheimer’s Disease: A Data‑Driven Meta‑Analysis with N = 3,118 | X Kang, D Wang, J Lin, H Yao, K Zhao, C Song, P Chen, Y Qu, H Yang, Z Zhang, B Zhou, Y Liu | 2024 | 0 | - | MCAD, ADNI, EDSD | Neuroscience Bulletin |
-| Coupling of the spatial distributions between sMRI and PET reveals the progression of Alzheimer’s disease | K Zhao, J Lin, M Dyrba, D Wang, T Che, H Wu, J Wang, Y Liu, S Li | 2023 | 5 | - | ADNI | Network Neuroscience |
-| Delineating the Heterogeneity of Alzheimer’s Disease and Mild Cognitive Impairment Using Normative Models of the Dynamic Brain Functional Networks | Y Huo, R **g, P Li, P Chen, J Si, G Liu, Y Liu | 2024 | 2 | - | Cam-CAN, MCAD, ADNI | Biological Psychiatry |
-| Editorial: Neuroimaging Biomarkers and Cognition in Alzheimer’s Disease Spectrum | J Chen, S Wang, R Chen, Y Liu | 2022 | 3 | - | - | Frontiers in Aging Neuroscience |
-| Four distinct subtypes of Alzheimer's disease based on restingstate connectivity biomarkers | P Chen, H Yao, BM Tijms, P Wang, D Wang, C Song，Y Liu | 2023 | 43 | - | MCADI | Biological Psychiatry |
-| Altered large-scale dynamic connectivity patterns in Alzheimer's disease and mild cognitive impairment patients: A machine learning study | R**g, P Chen, Y Wei, J Si, Y Zhou, D Wang, C Song, H Yang, Z Zhang, H Yao, X Kang, Y Liu | 2023 | 7 | - | YN, MACD, ADNI | Human Brain Map |
-| Learning with Domain-Knowledge for Generalizable Prediction of Alzheimer’s Disease from Multi-site Structural MRI | Y Zhou, Y Liu, F Zhou, Y Liu, L Tu | 2023 | 2 | - | - | Cham: Springer Nature Switzerland |
-| MACROSCALE BRAIN STRUCTURAL NETWORK COUPLING IS RELATED TO AD PROGRESSION | Y Sun, P Chen, Y Liu, K Zhao | 2024 | 0 | - | - | ISBI |
-| Mapping cerebral atrophic trajectory from amnestic mild cognitive impairment to Alzheimer’s disease | X Wei, X Du, Y Xie, X Suo, X He, H Ding，Y Liu | 2023 | 10 | - | ADNI | Cerebral Cortex |
-| Multipredictor risk models for predicting individual risk of Alzheimer’s disease | Hou, X. H., Suckling, J., Shen, X. N., Liu, Y. | 2023 | 2 | - | ADNI | Journal of translational medicine |
-| A neuroimaging biomarker for Individual Brain-Related Abnormalities In Neurodegeneration (IBRAIN): a cross-sectional study | Zhao, K., Chen, P., Alexander-Bloch, A., Wei, Y., Y Liu | 2023 | 11 | - | ADNI, MCADI, OASIS | EClinicalMedicine |
-| Predicting Conversion to Mild Cognitive Impairment in Cognitively Normal with Incomplete Multi-modal Neuroimages | Y Sun, Y Liu, B Liu | 2024 | 0 | - | ADNI | ICBCB |
+| 3DNesT: A Hierarchical Local Self-Attention Model for Alzheimer's Disease Diagnosis | X Kang, Y Liu | 2023 | 0 | https://ieeexplore.ieee.org/document/10462762 | ADNI | ICNC |
+| A systematic analysis of diagnostic performance for Alzheimer’s disease using structural MRI | J Wu, K Zhao, Z Li, D Wang, Y Ding, Y Wei, H Zhang, Y Liu | 2022 | 6 | https://pubmed.ncbi.nlm.nih.gov/38665142/ | - | Psychoradiology |
+| Structure–function coupling reveals the brain hierarchical structure dysfunction in Alzheimer’s disease: A multicenter study | Y Sun, P Wang, K Zhao, P Chen, Y Qu, Z Li, S Zhong, B Zhou, J Lu, X Zhang, D Wang, Y Liu | 2024 | 0 | https://pubmed.ncbi.nlm.nih.gov/39072981/ | Private | Alzheimer's & Dementia |
+| Convergent Neuroimaging and Molecular Signatures in Mild Cognitive Impairment and Alzheimer’s Disease: A Data‑Driven Meta‑Analysis with N = 3,118 | X Kang, D Wang, J Lin, H Yao, K Zhao, C Song, P Chen, Y Qu, H Yang, Z Zhang, B Zhou, Y Liu | 2024 | 0 | https://pubmed.ncbi.nlm.nih.gov/38824231/ | MCAD, ADNI, EDSD | Neuroscience Bulletin |
+| Coupling of the spatial distributions between sMRI and PET reveals the progression of Alzheimer’s disease | K Zhao, J Lin, M Dyrba, D Wang, T Che, H Wu, J Wang, Y Liu, S Li | 2023 | 5 | https://pubmed.ncbi.nlm.nih.gov/37334010/ | ADNI | Network Neuroscience |
+| Delineating the Heterogeneity of Alzheimer’s Disease and Mild Cognitive Impairment Using Normative Models of the Dynamic Brain Functional Networks | Y Huo, R **g, P Li, P Chen, J Si, G Liu, Y Liu | 2024 | 2 | https://pubmed.ncbi.nlm.nih.gov/38857821/ | Cam-CAN, MCAD, ADNI | Biological Psychiatry |
+| Editorial: Neuroimaging Biomarkers and Cognition in Alzheimer’s Disease Spectrum | J Chen, S Wang, R Chen, Y Liu | 2022 | 3 | https://pubmed.ncbi.nlm.nih.gov/35283754/ | - | Frontiers in Aging Neuroscience |
+| Four distinct subtypes of Alzheimer's disease based on restingstate connectivity biomarkers | P Chen, H Yao, BM Tijms, P Wang, D Wang, C Song，Y Liu | 2023 | 43 | https://pubmed.ncbi.nlm.nih.gov/36137824/ | MCADI | Biological Psychiatry |
+| Altered large-scale dynamic connectivity patterns in Alzheimer's disease and mild cognitive impairment patients: A machine learning study | R**g, P Chen, Y Wei, J Si, Y Zhou, D Wang, C Song, H Yang, Z Zhang, H Yao, X Kang, Y Liu | 2023 | 7 | https://pubmed.ncbi.nlm.nih.gov/36988434/ | YN, MACD, ADNI | Human Brain Map |
+| Learning with Domain-Knowledge for Generalizable Prediction of Alzheimer’s Disease from Multi-site Structural MRI | Y Zhou, Y Liu, F Zhou, Y Liu, L Tu | 2023 | 2 | https://link.springer.com/chapter/10.1007/978-3-031-43904-9_44 | - | Cham: Springer Nature Switzerland |
+| MACROSCALE BRAIN STRUCTURAL NETWORK COUPLING IS RELATED TO AD PROGRESSION | Y Sun, P Chen, Y Liu, K Zhao | 2024 | 0 | https://ieeexplore.ieee.org/document/10635655 | - | ISBI |
+| Mapping cerebral atrophic trajectory from amnestic mild cognitive impairment to Alzheimer’s disease | X Wei, X Du, Y Xie, X Suo, X He, H Ding，Y Liu | 2023 | 10 | https://pubmed.ncbi.nlm.nih.gov/35368064/ | ADNI | Cerebral Cortex |
+| Multipredictor risk models for predicting individual risk of Alzheimer’s disease | Hou, X. H., Suckling, J., Shen, X. N., Liu, Y. | 2023 | 2 | https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-023-04646-x | ADNI | Journal of translational medicine |
+| A neuroimaging biomarker for Individual Brain-Related Abnormalities In Neurodegeneration (IBRAIN): a cross-sectional study | Zhao, K., Chen, P., Alexander-Bloch, A., Wei, Y., Y Liu | 2023 | 11 | https://pubmed.ncbi.nlm.nih.gov/37954904/ | ADNI, MCADI, OASIS | EClinicalMedicine |
+| Predicting Conversion to Mild Cognitive Impairment in Cognitively Normal with Incomplete Multi-modal Neuroimages | Y Sun, Y Liu, B Liu | 2024 | 0 | https://ieeexplore.ieee.org/document/9802479 | ADNI | ICBCB |
 
 ## 📊Datasets
 
