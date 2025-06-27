@@ -16,36 +16,36 @@ The mainstream methods for AD diagnosis primarily involve deep learning and can 
 | MAD-Former: A Traceable Interpretability Model for Alzheimer’s Disease Recognition Based on Multi-Patch Attention | Jiayu Ye; An Zeng; Yiqun Zhang; Jingliang Zhao; Qiuping Chen; Yang Liu | 2024 | - | [Github](https://github.com/yjy-97/MAD-Former) | ADNI, OASIS | JBHI |
 | Understanding the Role of Self-Attention in a Transformer Model for the Discrimination of SCD From MCI Using Resting-State EEG | Elena Sibilano; Domenico Buongiorno; Michael Lassi; Antonello Grippo; Valentina Bessi; Sandro Sorbi; Alberto Mazzoni; Vitoantonio Bevilacqua; Antonio Brunetti | 2024 | 1 | [Github](https://github.com/LabInfInd/SCD_MCI_Transformer) | Private | JBHI |
 | PVTAD: ALZHEIMER’S DISEASE DIAGNOSIS USING PYRAMID VISION TRANSFORMER APPLIED TO WHITE MATTER OF T1-WEIGHTED STRUCTURAL MRI DATA | Maryam Akhavan Aghdam; Serdar Bozdag; Fahad Saeed | 2024 | - | [Github](https://github.com/pcdslab/PVTAD) | ADNI | ISBI |
-| DenseFormer-MoE: A Dense Transformer Foundation Model with Mixture of Experts for Multi-Task Brain Image Analysis | Ding R, Lu H, Liu M | 2025 | 1 | - | UKB, ADNI, PPMI | TMI |
-| 3DNesT: A Hierarchical Local Self-Attention Model for Alzheimer's Disease Diagnosis | X Kang, Y Liu | 2023 | 0 | - | ADNI | ICNC |
-| Trans-ResNet: Integrating Transformers and CNNs for Alzheimer’s disease classification | Li, C., Cui, Y., Luo, N., Liu, Y | 2022 | 35 | - | ADNI | ISBI |
+| DenseFormer-MoE: A Dense Transformer Foundation Model with Mixture of Experts for Multi-Task Brain Image Analysis | Ding R, Lu H, Liu M | 2025 | 1 | https://ieeexplore.ieee.org/document/10926590 | UKB, ADNI, PPMI | TMI |
+| 3DNesT: A Hierarchical Local Self-Attention Model for Alzheimer's Disease Diagnosis | X Kang, Y Liu | 2023 | 0 | https://ieeexplore.ieee.org/document/10462762 | ADNI | ICNC |
+| Trans-ResNet: Integrating Transformers and CNNs for Alzheimer’s disease classification | Li, C., Cui, Y., Luo, N., Liu, Y | 2022 | 35 | https://ieeexplore.ieee.org/document/9761549 | ADNI | ISBI |
 
 #### Graph Convolutional Networks (GCN)
 | Title | Authors | Year | Citations | Code | Datasets | Journal/Conference |
 |-------|---------|------|-----------|------|----------|-------------------|
 | Multi-Modal Diagnosis of Alzheimer’s Disease using Interpretable Graph Convolutional Networks | Houliang Zhou; Lifang He; Brian Y. Chen; Li Shen; Yu Zhang | 2024 | 0 | [Github](https://github.com/Houliang-Zhou/SGCN) | ADNI | TMI |
-| A Graph Convolutional Network Based on Univariate Neurodegeneration Biomarker for Alzheimer’s Disease Diagnosis | Zongshuai Qu; Tao Yao; Xinghui Liu; Gang Wang | 2023 | 12 | - | ADNI | Journal of Translational Engineering in Health and Medicine |
-| Interpretable modality-specific and interactive graph convolutional network on brain functional and structural connectomes | J **a, YH Chan, D Girish, JC Rajapakse | 2025 | 0 | - | ADNI | MIA |
+| A Graph Convolutional Network Based on Univariate Neurodegeneration Biomarker for Alzheimer’s Disease Diagnosis | Zongshuai Qu; Tao Yao; Xinghui Liu; Gang Wang | 2023 | 12 | https://ieeexplore.ieee.org/document/10149537 | ADNI | Journal of Translational Engineering in Health and Medicine |
+| Interpretable modality-specific and interactive graph convolutional network on brain functional and structural connectomes | J **a, YH Chan, D Girish, JC Rajapakse | 2025 | 0 | https://www.sciencedirect.com/science/article/abs/pii/S136184152500057X | ADNI | MIA |
 
 #### Convolutional Neural Networks (CNN)
 | Title | Authors | Year | Citations | Code | Datasets | Journal/Conference |
 |-------|---------|------|-----------|------|----------|-------------------|
-| Fuzzy-VGG: A fast deep learning method for predicting the staging of Alzheimer's disease based on brain MRI | Zhaomin Yao; Wenxin Mao; Yizhe Yuan; Zhenning Shi; Gancheng Zhu; Wenwen Zhang; Zhiguo Wang; Guoxu Zhang | 2023 | 16 | - | KACD | Information Sciences |
-| Conv-eRVFL: Convolutional Neural Network Based Ensemble RVFL Classifier for Alzheimer’s Disease Diagnosis | Rahul Sharma; Tripti Goel M Tanveer; P. N. Suganthan; Imran Razzak; R Murugan | 2023 | 23 | - | ADNI | JBHI |
-| LGG-NeXt: A Next Generation CNN and Transformer Hybrid Model for the Diagnosis of Alzheimer's Disease Using 2D Structural MRI | Bai, J., Zhang, Z., Yin, Y., **, W., Ali, T. A. A., **ong, Y., &**ao | 2025 | 0 | - | ADNI | JBHI |
+| Fuzzy-VGG: A fast deep learning method for predicting the staging of Alzheimer's disease based on brain MRI | Zhaomin Yao; Wenxin Mao; Yizhe Yuan; Zhenning Shi; Gancheng Zhu; Wenwen Zhang; Zhiguo Wang; Guoxu Zhang | 2023 | 16 | https://www.sciencedirect.com/science/article/abs/pii/S0020025523007144 | KACD | Information Sciences |
+| Conv-eRVFL: Convolutional Neural Network Based Ensemble RVFL Classifier for Alzheimer’s Disease Diagnosis | Rahul Sharma; Tripti Goel M Tanveer; P. N. Suganthan; Imran Razzak; R Murugan | 2023 | 23 | https://www.embs.org/jbhi/articles/imaging-informatics-9/ | ADNI | JBHI |
+| LGG-NeXt: A Next Generation CNN and Transformer Hybrid Model for the Diagnosis of Alzheimer's Disease Using 2D Structural MRI | Bai, J., Zhang, Z., Yin, Y., **, W., Ali, T. A. A., **ong, Y., &**ao | 2025 | 0 | https://ieeexplore.ieee.org/document/10750309 | ADNI | JBHI |
 
 #### Generative Adversarial Networks (GAN)
 | Title | Authors | Year | Citations | Code | Datasets | Journal/Conference |
 |-------|---------|------|-----------|------|----------|-------------------|
-| Brain Status Transferring Generative Adversarial Network for Decoding Individualized Atrophy in Alzheimer’s Disease | Xingyu Gao; Hongrui Liu; Feng Shi; Dinggang Shen; Manhua Liu | 2023 | 4 | - | ADNI, OASIS, AIBL | JBHI |
+| Brain Status Transferring Generative Adversarial Network for Decoding Individualized Atrophy in Alzheimer’s Disease | Xingyu Gao; Hongrui Liu; Feng Shi; Dinggang Shen; Manhua Liu | 2023 | 4 | https://www.embs.org/jbhi/articles/imaging-informatics-9/ | ADNI, OASIS, AIBL | JBHI |
 | CE-GAN: Community Evolutionary Generative Adversarial Network for Alzheimer's Disease Risk Prediction | Xia-An Bi; Zicheng Yang; Yangjun Huang; Ke Chen; Zhaoxu Xing; Luyun Xu; Zihao Wu; Zhengliang Liu; Xiang Li; Tianming Liu | 2024 | 3 | [Github](https://github.com/fmri123456/CE-GAN) | ADNI | TMI |
-| IGUANe: A 3D generalizable CycleGAN for multicenter harmonization of brain MR images | Roca, V., Kuchcinski, G., Pruvo, J. P., Manouvriez, D., & Lopes, R | 2025 | 4 | - | ADNI | MIA |
+| IGUANe: A 3D generalizable CycleGAN for multicenter harmonization of brain MR images | Roca, V., Kuchcinski, G., Pruvo, J. P., Manouvriez, D., & Lopes, R | 2025 | 4 | https://www.sciencedirect.com/science/article/pii/S136184152400313X | ADNI | MIA |
 
 #### Recurrent Neural Networks (RNN/LSTM)
 | Title | Authors | Year | Citations | Code | Datasets | Journal/Conference |
 |-------|---------|------|-----------|------|----------|-------------------|
-| Multi-scale 3D Convolutional LSTM for Longitudinal Alzheimer's Disease Identification | Mengqing Liu; Xiao Shao; Liping Jiang; Kaizhi Wu | 2024 | 0 | - | Private | ISBI |
-| Predicting Alzheimer’s Disease Progression Using a Versatile Sequence-Length-Adaptive Encoder-Decoder LSTM Architecture | Km Poonam; Rajlakshmi Guha; Partha P Chakrabarti | 2024 | 0 | - | ADNI | JBHI |
+| Multi-scale 3D Convolutional LSTM for Longitudinal Alzheimer's Disease Identification | Mengqing Liu; Xiao Shao; Liping Jiang; Kaizhi Wu | 2024 | 0 | https://ieeexplore.ieee.org/document/10635331 | Private | ISBI |
+| Predicting Alzheimer’s Disease Progression Using a Versatile Sequence-Length-Adaptive Encoder-Decoder LSTM Architecture | Km Poonam; Rajlakshmi Guha; Partha P Chakrabarti | 2024 | 0 | https://ieeexplore.ieee.org/document/10495102 | ADNI | JBHI |
 
 #### Self-Supervised Learning
 | Title | Authors | Year | Citations | Code | Datasets | Journal/Conference |
